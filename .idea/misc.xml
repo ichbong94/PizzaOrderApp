@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ichbo/AndroidStudioProjects/PizzaOrderApp/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ichbo/AndroidStudioProjects/PizzaOrderApp/app/src/main/res/layout/fragment_chicken_store_list.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/ichbo/AndroidStudioProjects/PizzaOrderApp/app/src/main/res/layout/fragment_pizza_store_list.xml" value="0.25364583333333335" />
       </map>
     </option>
   </component>
